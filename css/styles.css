@@ -71,3 +71,7 @@ button {
   opacity: 0.9;
   flex: 1; /*OCUPA A LARGURA MÁXIMA*/
 }
+
+button:hover {
+  opacity: 1;
+}
