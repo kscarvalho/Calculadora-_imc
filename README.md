@@ -61,13 +61,13 @@ Onde:
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
+git clone https://github.com/kscarvalho/Calculadora-_imc.git
 ```
 
 2. Acesse a pasta:
 
 ```bash
-cd seu-repositorio
+Calculadora-_imc
 ```
 
 3. Abra o arquivo `index.html` no navegador
