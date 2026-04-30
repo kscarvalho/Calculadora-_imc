@@ -17,13 +17,9 @@ O projeto foi desenvolvido com foco em prática de **HTML, CSS e JavaScript**, i
 
 ## 📸 Preview
 
-> *(Você pode adicionar um print aqui depois, exemplo abaixo)*
 
-```md
-![preview](./assets/preview.png)
-```
+https://kscarvalho.github.io/Calculadora-_imc/
 
----
 
 ## 🧠 Como funciona o cálculo
 
