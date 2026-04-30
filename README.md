@@ -1,4 +1,4 @@
-# Calculadora-_imc# 🧮 Calculadora de IMC
+## 🧮 Calculadora de IMC
 
 Uma aplicação web simples e intuitiva para cálculo do **Índice de Massa Corporal (IMC)**.
 O projeto foi desenvolvido com foco em prática de **HTML, CSS e JavaScript**, incluindo manipulação do DOM e interação com o usuário.
